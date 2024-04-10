@@ -3,12 +3,12 @@
 
 - I'm Parissa, a passionate data enthusiast with a strong interest in exploring the world of data science. Throughout my journey in this field, I've honed my skills in Python programming, machine learning, and deep learning through hands-on projects and collaborative endeavors. 
 
-Below you can find the link of my final project from a 24-week part-time coding bootcamp, where I led a team in developing a sign language classification system using cutting-edge techniques. It demonstrates my proficiency in data science and deep learning techniques. Contents Project Sign Language Image and Video Prediction Developed a sign language classification system using deep learning techniques. Collaborated with a team of four to explore MediaPipe models for hand landmark extraction, enhancing prediction accuracy. Utilized advanced CNN architectures such as VGG16 and YOLO for precise classification. Implemented rigorous preprocessing and optimization strategies for scalable performance. 
+Below you can find the link of my final project from data science bootcamp, where I led a team in developing a sign language classification system using cutting-edge techniques. It demonstrates my proficiency in data science and deep learning techniques. Contents Project Sign Language Image and Video Prediction Developed a sign language classification system using deep learning techniques. Collaborated with a team of four to explore MediaPipe models for hand landmark extraction, enhancing prediction accuracy. Utilized advanced CNN architectures such as VGG16 and YOLO for precise classification. Implemented rigorous preprocessing and optimization strategies for scalable performance. </br>
 [signsense](https://github.com/ParissaPeimaniyfard/signsense.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tryhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tryhg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parissa-peimaniyfard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tryhg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
