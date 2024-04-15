@@ -3,7 +3,10 @@
 
 - I'm Parissa, a passionate data enthusiast with a strong interest in exploring the world of data science. Throughout my journey in this field, I've honed my skills in Python programming, machine learning, and deep learning through hands-on projects and collaborative endeavors. 
 
-Below you can find the link of my final project from data science bootcamp, where I led a team in developing a sign language classification system using cutting-edge techniques. It demonstrates my proficiency in data science and deep learning techniques. Contents Project Sign Language Image and Video Prediction Developed a sign language classification system using deep learning techniques. Collaborated with a team of four to explore MediaPipe models for hand landmark extraction, enhancing prediction accuracy. Utilized advanced CNN architectures such as VGG16 and YOLO for precise classification. Implemented rigorous preprocessing and optimization strategies for scalable performance. </br>
+Below you can find the link of my final project from data science bootcamp, where I led a team in developing a sign language classification system using cutting-edge techniques. It demonstrates my proficiency in data science and deep learning techniques.
+
+### Project: Sign Language Image and Video Prediction 
+Developed a sign language classification system using deep learning techniques. Collaborated with a team of four to explore MediaPipe models for hand landmark extraction, enhancing prediction accuracy. Utilized advanced CNN architectures such as VGG16 and YOLO for precise classification. Implemented rigorous preprocessing and optimization strategies for scalable performance. </br>
 [signsense](https://github.com/ParissaPeimaniyfard/signsense.git)
 
 <h3 align="left">Connect with me:</h3>
